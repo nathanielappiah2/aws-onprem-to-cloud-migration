@@ -16,7 +16,7 @@ Internet → Security Group → EC2 Instance (Ubuntu) → Apache → MySQL → P
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](9DD70484-45C8-491F-916F-0372B6F69C81.PNG)
 ## Technologies Used
 
 - Ubuntu Server
