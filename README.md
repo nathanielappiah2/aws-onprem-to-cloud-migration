@@ -14,6 +14,9 @@ MacBook running UTM → Ubuntu Server VM → Apache → MySQL → PHP
 ### AWS Cloud
 Internet → Security Group → EC2 Instance (Ubuntu) → Apache → MySQL → PHP
 
+## Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
 ## Technologies Used
 
 - Ubuntu Server
