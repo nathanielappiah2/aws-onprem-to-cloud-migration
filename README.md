@@ -19,6 +19,32 @@ Internet → Security Group → EC2 Instance (Ubuntu) → Apache → MySQL → P
 ![Architecture Diagram](9DD70484-45C8-491F-916F-0372B6F69C81.PNG)
 ## Technologies Used
 
+## Validation Screenshots
+
+### Migrated Web Application
+
+![Migrated Web Application](IMG_9052.jpg)
+
+### PHP Version Verification
+
+![PHP Version](IMG_9053.jpg)
+
+### PHP Information Page
+
+![PHP Information](IMG_9054.jpg)
+
+### Apache Service Status
+
+![Apache Service Status](IMG_9057.jpg)
+
+### MySQL Service Status
+
+![MySQL Service Status](IMG_9056.jpg)
+
+### MySQL Secure Installation
+
+![MySQL Secure Installation](IMG_9058.jpg)
+
 - Ubuntu Server
 - Apache HTTP Server
 - MySQL
